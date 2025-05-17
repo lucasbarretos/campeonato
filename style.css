@@ -77,3 +77,9 @@ input{
     margin-bottom: 15px;
     padding: ;
 }
+.opcao{
+    margin: 0;
+}
+.uf{
+    margin-left: 64px;
+}
